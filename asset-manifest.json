@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewsAakarsh/static/css/main.a4a20492.chunk.css",
+    "main.js": "/NewsAakarsh/static/js/main.992d5d25.chunk.js",
+    "main.js.map": "/NewsAakarsh/static/js/main.992d5d25.chunk.js.map",
+    "runtime-main.js": "/NewsAakarsh/static/js/runtime-main.bfe303a2.js",
+    "runtime-main.js.map": "/NewsAakarsh/static/js/runtime-main.bfe303a2.js.map",
+    "static/js/2.9d27e4a2.chunk.js": "/NewsAakarsh/static/js/2.9d27e4a2.chunk.js",
+    "static/js/2.9d27e4a2.chunk.js.map": "/NewsAakarsh/static/js/2.9d27e4a2.chunk.js.map",
+    "static/js/3.1686862b.chunk.js": "/NewsAakarsh/static/js/3.1686862b.chunk.js",
+    "static/js/3.1686862b.chunk.js.map": "/NewsAakarsh/static/js/3.1686862b.chunk.js.map",
+    "index.html": "/NewsAakarsh/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/NewsAakarsh/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.9d27e4a2.chunk.js.LICENSE.txt": "/NewsAakarsh/static/js/2.9d27e4a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe303a2.js",
+    "static/js/2.9d27e4a2.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.992d5d25.chunk.js"
+  ]
+}
